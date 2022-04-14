@@ -10,7 +10,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author Takudzwa Mzembegwa
+ * @Sango
  */
 public class EntityManagerFactoryHandler {
 
